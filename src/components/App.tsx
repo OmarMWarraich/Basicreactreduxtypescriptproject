@@ -2,7 +2,7 @@
 
 
 import React from 'react';
-import './App.css';
+import '../../src/App.css';
 
 import CharacterList from '../containers/CharacterList';
 
